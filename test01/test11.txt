@@ -1,4 +1,0 @@
-multiplemtum file 
-commit 
-add
-init 
