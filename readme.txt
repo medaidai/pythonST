@@ -11,3 +11,4 @@ master:EDIT ON THE MASTER BRANCH
 feature1: Creating a new branch is quik and simple  feature1
 dev2: creating new  --no -ff git merge 
 dev  remote  branch dev pull and push
+dev  init file from remote dev 
